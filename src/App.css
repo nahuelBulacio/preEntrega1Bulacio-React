@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.carrito-compras{
+  height: 40px;
+}
+
+.barraDeMenues{
+  background-color:"red";
+}
+
+
